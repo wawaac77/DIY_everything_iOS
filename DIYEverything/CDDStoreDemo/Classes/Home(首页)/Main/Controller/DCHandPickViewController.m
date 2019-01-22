@@ -218,7 +218,8 @@ static NSString *const DCScrollAdFootViewID = @"DCScrollAdFootView";
 
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section {
     if (section == 0) { //10属性
-        return _gridItem.count;
+        return 8;
+//        return _gridItem.count;
     }
     if (section == 1 || section == 2 || section == 3) { //广告福利  倒计时  掌上专享
         return 1;
@@ -316,7 +317,7 @@ static NSString *const DCScrollAdFootViewID = @"DCScrollAdFootView";
 #pragma mark - item宽高
 - (CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout *)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath {
     if (indexPath.section == 0) {//9宫格组
-        return CGSizeMake(ScreenW/5 , ScreenW/5 + DCMargin);
+        return CGSizeMake(ScreenW/4 , ScreenW/4 + DCMargin);
     }
     if (indexPath.section == 1) {//广告
         return CGSizeMake(ScreenW, 180);

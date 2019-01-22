@@ -169,6 +169,11 @@
 		18DCA3CA1F1F4187008BF67E /* DCRecommendReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DCA3081F1F4187008BF67E /* DCRecommendReusableView.m */; };
 		18DD85C71F0650F400F47095 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18DD85C61F0650F400F47095 /* Assets.xcassets */; };
 		18F64B1B1F0E03F500DB978C /* PingFang Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18F64B1A1F0E03F500DB978C /* PingFang Medium.ttf */; };
+		786C58F421F6EA7C00AE52E8 /* pattern_tattoo_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 786C58F221F6EA7C00AE52E8 /* pattern_tattoo_1.jpg */; };
+		786C58F521F6EA7C00AE52E8 /* pattern_tattoo_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 786C58F321F6EA7C00AE52E8 /* pattern_tattoo_3.jpg */; };
+		786C58F821F6EA8500AE52E8 /* wallpaper_tattoo_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 786C58F621F6EA8500AE52E8 /* wallpaper_tattoo_2.jpg */; };
+		786C58F921F6EA8500AE52E8 /* wallpaper_tattoo_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 786C58F721F6EA8500AE52E8 /* wallpaper_tattoo_1.jpg */; };
+		786C58FB21F6ED4300AE52E8 /* diy_hearts.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 786C58FA21F6ED4300AE52E8 /* diy_hearts.jpg */; };
 		92565C041FD7E42E00828060 /* DCObjManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 92565C021FD7E42D00828060 /* DCObjManager.m */; };
 		92565C071FD7ECE500828060 /* DCNotificationCenterName.m in Sources */ = {isa = PBXBuildFile; fileRef = 92565C061FD7ECE500828060 /* DCNotificationCenterName.m */; };
 		925B5F011FCD529B00053A16 /* DCTitleRolling.m in Sources */ = {isa = PBXBuildFile; fileRef = 925B5EFE1FCD529B00053A16 /* DCTitleRolling.m */; };
@@ -621,6 +626,11 @@
 		18DD85C61F0650F400F47095 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18DD85C81F06512100F47095 /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		18F64B1A1F0E03F500DB978C /* PingFang Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PingFang Medium.ttf"; sourceTree = "<group>"; };
+		786C58F221F6EA7C00AE52E8 /* pattern_tattoo_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern_tattoo_1.jpg; sourceTree = "<group>"; };
+		786C58F321F6EA7C00AE52E8 /* pattern_tattoo_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern_tattoo_3.jpg; sourceTree = "<group>"; };
+		786C58F621F6EA8500AE52E8 /* wallpaper_tattoo_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wallpaper_tattoo_2.jpg; sourceTree = "<group>"; };
+		786C58F721F6EA8500AE52E8 /* wallpaper_tattoo_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wallpaper_tattoo_1.jpg; sourceTree = "<group>"; };
+		786C58FA21F6ED4300AE52E8 /* diy_hearts.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = diy_hearts.jpg; sourceTree = "<group>"; };
 		92565C021FD7E42D00828060 /* DCObjManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCObjManager.m; sourceTree = "<group>"; };
 		92565C031FD7E42E00828060 /* DCObjManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCObjManager.h; sourceTree = "<group>"; };
 		92565C051FD7ECE500828060 /* DCNotificationCenterName.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DCNotificationCenterName.h; sourceTree = "<group>"; };
@@ -1875,6 +1885,7 @@
 		18DCA2E11F1F4187008BF67E /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				786C58F121F6EA6B00AE52E8 /* Pictures */,
 				92A761E01FCD921600017DFE /* GIF */,
 				92B4F84E1F8DB7B4003C2E76 /* RequestTool */,
 				18DCA2E21F1F4187008BF67E /* Plist */,
@@ -1992,6 +2003,18 @@
 				F3736E949C41228120EF9FC0 /* Pods-CDDStoreDemo.release.xcconfig */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		786C58F121F6EA6B00AE52E8 /* Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				786C58FA21F6ED4300AE52E8 /* diy_hearts.jpg */,
+				786C58F221F6EA7C00AE52E8 /* pattern_tattoo_1.jpg */,
+				786C58F321F6EA7C00AE52E8 /* pattern_tattoo_3.jpg */,
+				786C58F721F6EA8500AE52E8 /* wallpaper_tattoo_1.jpg */,
+				786C58F621F6EA8500AE52E8 /* wallpaper_tattoo_2.jpg */,
+			);
+			path = Pictures;
 			sourceTree = "<group>";
 		};
 		925B5EFC1FCD529B00053A16 /* CDDTitleRolling */ = {
@@ -2812,6 +2835,7 @@
 				9CCC207E202BEBC700B6CD44 /* AddressTableViewCell.xib in Resources */,
 				18DCA3B41F1F4187008BF67E /* ClassiftyGoods02.plist in Resources */,
 				9C7FE1E11FD9143800D32EEA /* DCStoresRecommendCell.xib in Resources */,
+				786C58FB21F6ED4300AE52E8 /* diy_hearts.jpg in Resources */,
 				9C147D5F1FE14EF900CA3BB4 /* DCCenterBeaShopCell.xib in Resources */,
 				926CED321FCEB64400002DDF /* T1cdxgB5_T1RCvBVdK.gif in Resources */,
 				9C215E801FDA5BD1002152F1 /* BeautyShop.plist in Resources */,
@@ -2819,6 +2843,8 @@
 				9C7FE1F11FD9302300D32EEA /* DCBeautyShopRecommendCell.xib in Resources */,
 				18DCA3BC1F1F4187008BF67E /* CommentPic.plist in Resources */,
 				9C7338DE2006022100D30900 /* DCBeautyMsgCell.xib in Resources */,
+				786C58F421F6EA7C00AE52E8 /* pattern_tattoo_1.jpg in Resources */,
+				786C58F521F6EA7C00AE52E8 /* pattern_tattoo_3.jpg in Resources */,
 				92A761DF1FCD921000017DFE /* loading2.gif in Resources */,
 				9C7A1E35202AC66E0051DB5D /* DCAccountPsdView.xib in Resources */,
 				9C7FE1E91FD9230100D32EEA /* DCStoresRecommendHeaderView.xib in Resources */,
@@ -2830,6 +2856,7 @@
 				9C0D22F22041A5A600BD3714 /* CommentBadData.plist in Resources */,
 				9C7A1E29202AC6570051DB5D /* DCLoginViewController.xib in Resources */,
 				9C5F52AD1FDF94DF0061728E /* DCMyCenterHeaderView.xib in Resources */,
+				786C58F921F6EA8500AE52E8 /* wallpaper_tattoo_1.jpg in Resources */,
 				92CE3CE21FD68D85005F0A11 /* DCHeaderReusableView.xib in Resources */,
 				9C67DC641FE79DC100C04F25 /* DCUserMgCell.xib in Resources */,
 				9C8CC8692004A25E00515926 /* flsah_normal@2x.png in Resources */,
@@ -2855,6 +2882,7 @@
 				9C2AB0AC204041DB00B01353 /* CommentData.plist in Resources */,
 				9CE9CB721FE8E67D0033322E /* DCNewAdressView.xib in Resources */,
 				18DCA34F1F1F4187008BF67E /* addressData.plist in Resources */,
+				786C58F821F6EA8500AE52E8 /* wallpaper_tattoo_2.jpg in Resources */,
 				18DCA3C31F1F4187008BF67E /* CountDownShop.plist in Resources */,
 				9C8CC8682004A25E00515926 /* flash_select@2x.png in Resources */,
 				9C7FE1FB1FD933C700D32EEA /* DCBeautyHotTopicCell.xib in Resources */,

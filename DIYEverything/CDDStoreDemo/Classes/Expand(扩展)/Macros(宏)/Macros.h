@@ -40,6 +40,7 @@
 
 #define PFR [[[UIDevice currentDevice] systemVersion] floatValue] >= 9.0 ? @"PingFangSC-Regular" : @"PingFang SC"
 
+#define AVENIR [[[UIDevice currentDevice] systemVersion] floatValue] >= 9.0 ? @"Avenir" : @"PingFang SC"
 
 #define TITLES @[@"发起聊天", @"添加好友", @"扫一扫"]
 #define ICONS  @[@"mshop_message_gray",@"mshop_message_gray",@"mshop_message_gray"]

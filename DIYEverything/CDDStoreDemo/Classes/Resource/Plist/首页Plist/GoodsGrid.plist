@@ -14,7 +14,7 @@
 	</dict>
 	<dict>
 		<key>iconImage</key>
-		<string>http://gfs9.gomein.net.cn/T15dxvBsdT1RCvBVdK.png</string>
+		<string>icon_tattoo</string>
 		<key>gridTitle</key>
 		<string>Tattoo</string>
 		<key>gridTag</key>
@@ -24,9 +24,9 @@
 	</dict>
 	<dict>
 		<key>iconImage</key>
-		<string>http://gfs6.gomein.net.cn/T1SGdvBjEj1RCvBVdK.png</string>
+		<string>icon_tshirt</string>
 		<key>gridTitle</key>
-		<string>国美电器</string>
+		<string>T-Shirt</string>
 		<key>gridTag</key>
 		<string></string>
 		<key>gridColor</key>
@@ -34,9 +34,9 @@
 	</dict>
 	<dict>
 		<key>iconImage</key>
-		<string>http://gfs6.gomein.net.cn/T10GdvBjAj1RCvBVdK.png</string>
+		<string>icon_phonecase</string>
 		<key>gridTitle</key>
-		<string>国美管家</string>
+		<string>Phone Case</string>
 		<key>gridTag</key>
 		<string></string>
 		<key>gridColor</key>
@@ -44,19 +44,9 @@
 	</dict>
 	<dict>
 		<key>iconImage</key>
-		<string>http://gfs5.gomein.net.cn/T1IGdvBjDj1RCvBVdK.png</string>
+		<string>icon_notebook1</string>
 		<key>gridTitle</key>
-		<string>金融理财</string>
-		<key>gridTag</key>
-		<string>分期免息 </string>
-		<key>gridColor</key>
-		<string>#A48A56</string>
-	</dict>
-	<dict>
-		<key>iconImage</key>
-		<string>http://gfs7.gomein.net.cn/T1yGdvBvZj1RCvBVdK.png</string>
-		<key>gridTitle</key>
-		<string>国美超市</string>
+		<string>Notebook</string>
 		<key>gridTag</key>
 		<string></string>
 		<key>gridColor</key>
@@ -64,23 +54,33 @@
 	</dict>
 	<dict>
 		<key>iconImage</key>
-		<string>http://gfs7.gomein.net.cn/T1cvKvBbhT1RCvBVdK.png</string>
+		<string>icon_car</string>
 		<key>gridTitle</key>
-		<string>家居家装</string>
+		<string>Car</string>
 		<key>gridTag</key>
-		<string>9.9 元起 </string>
+		<string></string>
 		<key>gridColor</key>
-		<string>#80BA18</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>iconImage</key>
-		<string>http://gfs9.gomein.net.cn/T1VGDvB4Vj1RCvBVdK.png</string>
+		<string>icon_painting</string>
 		<key>gridTitle</key>
-		<string>领美逗</string>
+		<string>Painting</string>
 		<key>gridTag</key>
-		<string>+5 美逗 </string>
+		<string></string>
 		<key>gridColor</key>
-		<string>#FD911B</string>
+		<string></string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>icon_nailsalon</string>
+		<key>gridTitle</key>
+		<string>Nail Salon</string>
+		<key>gridTag</key>
+		<string></string>
+		<key>gridColor</key>
+		<string></string>
 	</dict>
 	<dict>
 		<key>iconImage</key>

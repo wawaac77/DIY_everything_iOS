@@ -53,7 +53,8 @@
     [self addSubview:_gridImageView];
     
     _gridLabel = [[UILabel alloc] init];
-    _gridLabel.font = PFR13Font;
+    _gridLabel.font = [UIFont fontWithName:AVENIR size:13];
+//    _gridLabel.font = PFR13Font;
     _gridLabel.textAlignment = NSTextAlignmentCenter;
     [self addSubview:_gridLabel];
     
